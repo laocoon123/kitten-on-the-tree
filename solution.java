@@ -1,4 +1,4 @@
-// V00862272 Pei, Henry
+//Author: Henry Pei
 
 import java.util.*;
 import java.io.*;
